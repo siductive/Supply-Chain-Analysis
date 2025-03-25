@@ -21,7 +21,7 @@ Financial Records
 
 # Technology Stack
 
-Power BI: Data visualization and reporting
+Power BI: Data visualization and reporting, 
 Excel/CSV: Additional data processing and integration
 
 # Installation & Usage
