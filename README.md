@@ -12,12 +12,8 @@ Cost Analysis: Breakdown of procurement, logistics, and operational expenses.
 Delivery Performance Metrics: Monitor on-time deliveries and identify delays.
 Custom Reports: Dynamic filtering and drill-down options for detailed insights.
 
-# Data Sources
-
-Enterprise Resource Planning (ERP) Systems
-Inventory Databases
-Logistics Tracking Systems
-Financial Records
+# Dataset:- 
+<a href="https://github.com/siductive/Supply-Chain-Analysis/blob/main/supply_chain_data.csv">Supply Chai Data</a>
 
 # Technology Stack
 
@@ -35,9 +31,7 @@ Launch Power BI Desktop.
 Click File > Open and select Supply_chain_analysis.pbix.
 
 # Explore the Dashboard:
-
-Use filters and slicers to customize views.
-Interact with visualizations to gain insights.
+<a href="https://github.com/siductive/Supply-Chain-Analysis/blob/main/Supply_chain_analysis.pbix">Supply Chai Data</a>
 
 # Connect to Your Data:
 
