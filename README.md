@@ -13,7 +13,7 @@ Delivery Performance Metrics: Monitor on-time deliveries and identify delays.
 Custom Reports: Dynamic filtering and drill-down options for detailed insights.
 
 # Dataset:- 
-<a href="https://github.com/siductive/Supply-Chain-Analysis/blob/main/supply_chain_data.csv">Supply Chai Data</a>
+<a href="https://github.com/siductive/Supply-Chain-Analysis/blob/main/supply_chain_data.csv">Supply Chain Data</a>
 
 # Technology Stack
 
@@ -23,15 +23,12 @@ Excel/CSV: Additional data processing and integration
 # Installation & Usage
 
 Download & Install Power BI Desktop: Download here
-
 Open the PBIX File:
-
 Launch Power BI Desktop.
-
 Click File > Open and select Supply_chain_analysis.pbix.
 
 # Explore the Dashboard:
-<a href="https://github.com/siductive/Supply-Chain-Analysis/blob/main/Supply_chain_analysis.pbix">Supply Chai Data</a>
+<a href="https://github.com/siductive/Supply-Chain-Analysis/blob/main/Supply_chain_analysis.pbix">Supply Chain Data</a>
 
 # Connect to Your Data:
 
