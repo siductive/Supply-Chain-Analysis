@@ -6,10 +6,15 @@ This project provides an in-depth analysis of supply chain operations using Powe
 # Features
 
 Real-time Dashboard: Interactive visualizations for supply chain monitoring.
+
 Inventory Management: Analysis of stock levels, turnover rates, and demand forecasting.
+
 Supplier Performance Tracking: Evaluate supplier reliability and lead times.
+
 Cost Analysis: Breakdown of procurement, logistics, and operational expenses.
+
 Delivery Performance Metrics: Monitor on-time deliveries and identify delays.
+
 Custom Reports: Dynamic filtering and drill-down options for detailed insights.
 
 # Dataset:- 
@@ -17,14 +22,18 @@ Custom Reports: Dynamic filtering and drill-down options for detailed insights.
 
 # Technology Stack
 
-Power BI: Data visualization and reporting, 
+Power BI: Data visualization and reporting
+
 Excel/CSV: Additional data processing and integration
 
 # Installation & Usage
 
-Download & Install Power BI Desktop: Download here
-Open the PBIX File:
+Download & Install Power BI Desktop.
+
+Open the PBIX File.
+
 Launch Power BI Desktop.
+
 Click File > Open and select Supply_chain_analysis.pbix.
 
 # Explore the Dashboard:
